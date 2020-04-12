@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+    <fruit id="1">
+        <name>苹果</name>
+        <price>15</price>
+    </fruit>
+    <fruit id="2">
+        <name>香蕉</name>
+        <price>20</price>
+    </fruit>
+    <fruit id="3">
+        <name>梨</name>
+        <price>16</price>
+    </fruit>
+</list>
